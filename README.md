@@ -9,6 +9,8 @@ Nova AI is a powerful backend service that uses AI to generate articles, blog ti
 - 🧽 Background/Object Removal (Cloudinary)
 - 📄 Resume PDF Review (Gemini API)
 
+### DEMO => https://nova-ai-iota.vercel.app/
+
 ### 🔐 Access Control
 
 | Feature            | Free Users     | Premium Users   |
@@ -40,5 +42,4 @@ npm install
 npm run dev
 
 
-### DEMO => https://nova-ai-iota.vercel.app/
 
